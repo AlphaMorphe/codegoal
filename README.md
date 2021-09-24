@@ -1,6 +1,6 @@
 # Codegoal
 ---------------------
-After many month of unproductive work I decide to fix me a new goal, i'll try to make one js program per week (i'll be late), so if you want to help me in this adventure, come follow me on GitHub
+After many years of unproductive work I decide to fix me a new goal, i'll try nothing. Bye
 ---------------------
 
-![](https://media.giphy.com/media/b0xiVak2bSrjW/giphy.gif)
+![](https://media.giphy.com/media/goQ4bc8X0Lh6w/source.gif?cid=ecf05e473h5l2l3nmibb5ttt5omr5tn3g2x3x5786ca5pc0y&rid=source.gif&ct=g)
